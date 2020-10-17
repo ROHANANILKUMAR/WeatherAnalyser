@@ -1,0 +1,125 @@
+﻿body {
+	
+}
+#LargePanel {
+	vertical-align:central;
+	height: 10%;
+	background-color: #00979d;
+	margin-top:0;
+	font-size:40px;
+	font-weight:bold;
+	color:white;
+	text-align:left;
+	padding-left:10px;
+	width:100%
+}
+#SubText {
+	font-size:20px;
+	text-align:right;
+	height: 28px;
+	margin-top:20px;
+	margin-left:10px;
+}
+#RightPanel {
+	border-left: 1px ridge black;
+	border-bottom:1px ridge black;
+	float:right;
+	width:40%;
+	margin-top:10px;
+	}
+.DarkRightHeader {
+	background-color: rgb(89, 89, 89);
+	color: white;
+	font-size: 25px;
+	font-family: Arial;
+	padding-left: 10px;
+}
+#SignUpPanel {
+	margin-top: 10px;
+}
+.SignUpEle {
+	font-weight:bold;
+}
+
+SignUpEle {
+	padding-right:0px;
+}
+#signupbtn {
+	text-align:center;
+	margin-bottom:10px;
+}
+#ContentPanel {
+	background: linear-gradient(rgba(255,255,255,.7),rgba(255,255,255,.7)),url('../../Image Files/Logo.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 59%;
+	margin-top: 10px;
+	border: ridge;
+	border-color: black;
+	border-width: 1px;
+	height: 88%;
+}
+.Header {
+	font-size:20px;
+	color:rgb(100,100,100);
+}
+.Content {
+	font-size:15px;
+}
+
+.SignUpEleLi {
+	padding:10px;
+}
+
+#BottomPanel {
+	color: white;
+	background-color: #00979d;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	height: 10%;
+	vertical-align:text-bottom;
+	text-align:center;
+}
+p.BottomPanel {
+	padding:1px;
+	margin:1px;
+}
+
+.Entry {
+	position:relative;
+	float:right;
+}
+
+#MainHead {
+	
+}
+
+#RightBottomPanel {
+	border-left: 1px ridge black;
+	border-bottom: 1px ridge black;
+	bottom:250px;
+	position:relative;
+	float:right;
+	right:0px;
+	width: 40%;
+	height: 20%;
+	margin-top: 10px;
+	margin-left:0px;
+}
+
+#Credit {
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:5-x;
+	float:left;
+	width:412px;
+}
+
+#CreditName {
+	
+	
+	
+}
+
+

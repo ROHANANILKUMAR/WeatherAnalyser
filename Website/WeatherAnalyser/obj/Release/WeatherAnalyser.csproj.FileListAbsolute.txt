@@ -1,0 +1,182 @@
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\ApplicationInsights.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.dll.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.pdb
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.exe
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.exe.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.rsp
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.exe
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.exe.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.rsp
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.AppContext.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Collections.Immutable.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Console.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.Process.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.Compression.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.Pipes.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Reflection.Metadata.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.AccessControl.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Claims.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Threading.Thread.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.ValueTuple.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XPath.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.exe
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.exe.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.rsp
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\VBCSCompiler.exe
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\roslyn\VBCSCompiler.exe.config
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Antlr3.Runtime.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\AspNet.ScriptManager.jQuery.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.DependencyCollector.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Web.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.WindowsServer.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ApplicationInsights.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.Web.Infrastructure.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\MySql.Data.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Newtonsoft.Json.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\System.Web.Optimization.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\WebGrease.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Google.Protobuf.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\MySql.Data.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\System.Web.Optimization.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Newtonsoft.Json.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Antlr3.Runtime.pdb
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.DependencyCollector.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.WindowsServer.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Web.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csprojAssemblyReference.cache
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csproj.CoreCompileInputs.cache
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csproj.CopyComplete
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.dll
+G:\Science Exhibition\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.pdb
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\ApplicationInsights.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.dll.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\WeatherAnalyser.pdb
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.exe
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.exe.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csc.rsp
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.exe
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.exe.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\csi.rsp
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.AppContext.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Collections.Immutable.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Console.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.Process.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.Compression.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.IO.Pipes.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Reflection.Metadata.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.AccessControl.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Claims.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Threading.Thread.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.ValueTuple.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XPath.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.exe
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.exe.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\vbc.rsp
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\VBCSCompiler.exe
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\roslyn\VBCSCompiler.exe.config
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Antlr3.Runtime.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\AspNet.ScriptManager.jQuery.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.DependencyCollector.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Web.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.WindowsServer.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ApplicationInsights.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.Web.Infrastructure.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\MySql.Data.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Newtonsoft.Json.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\System.Web.Optimization.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\WebGrease.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Google.Protobuf.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\MySql.Data.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\System.Web.Optimization.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Newtonsoft.Json.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Antlr3.Runtime.pdb
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.DependencyCollector.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.WindowsServer.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.AI.Web.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csprojAssemblyReference.cache
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csproj.CoreCompileInputs.cache
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.csproj.CopyComplete
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.dll
+G:\Science Exhibition\Web Site\WeatherAnalyser\WeatherAnalyser\obj\Release\WeatherAnalyser.pdb

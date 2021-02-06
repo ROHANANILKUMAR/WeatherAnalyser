@@ -1,0 +1,7 @@
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\obj\Debug\bkdr.csproj.CoreCompileInputs.cache
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\bin\Debug\bkdr.exe.config
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\bin\Debug\bkdr.exe
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\bin\Debug\bkdr.pdb
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\obj\Debug\bkdr.exe
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\obj\Debug\bkdr.pdb
+G:\Science Exhibition\Back Door Server\bkdr\bkdr\obj\Debug\bkdr.csprojAssemblyReference.cache

@@ -1,0 +1,66 @@
+﻿<Window x:Class="WeatherAnalyser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherAnalyser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="581.416" Width="1042.716">
+    <Grid Background="#FF3F3F3F" Name="Root">
+        <ListBox Name="IpList" FontWeight="Bold" Background="#FF5D5D5F" BorderBrush="{x:Null}" Foreground="White" HorizontalAlignment="Left" Height="504" Margin="10,26,0,0" VerticalAlignment="Top" Width="264" SelectionChanged="IpList_SelectionChanged">
+
+        </ListBox>
+        <Label Content="Connected Devices" Foreground="White" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="264" Height="26"/>
+        <Grid Name="GeneralControls" Margin="772,26,10,22.4" Background="#FF5D5D5F">
+            <ListBox x:Name="LogList" ScrollViewer.PanningMode="VerticalOnly" HorizontalAlignment="Left" Height="234" Margin="10,10,0,0" VerticalAlignment="Top" Width="234" Background="#FF5D5D5F" Foreground="Wheat" SelectionChanged="LogList_SelectionChanged"/>
+            <Grid x:Name="LogData" Background="#FF4E4E4E" Margin="8,249,10,7">
+                <Label Content="Log Data" Margin="0,0,0.4,214" Foreground="White" Background="#FF606060"/>
+                <Label Content="From:" Foreground="White" HorizontalAlignment="Left" Margin="0,39,0,0" VerticalAlignment="Top" Width="52"/>
+                <Label Content="Response:" Foreground="White" HorizontalAlignment="Left" Margin="0,65,0,0" VerticalAlignment="Top" Width="71"/>
+                <Label Content="Phone No.:" Foreground="White" HorizontalAlignment="Left" Margin="0,88,0,0" VerticalAlignment="Top" Width="71"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,49,0,0" TextWrapping="Wrap" x:Name="Log_From" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,70,0,0" TextWrapping="Wrap" x:Name="Log_Response" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,94,0,0" TextWrapping="Wrap" x:Name="Log_PhNo" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <Label Content="Log Time:" Foreground="White" HorizontalAlignment="Left" Margin="0,114,0,0" VerticalAlignment="Top" Width="71"/>
+                <Label Content="Severity:" Foreground="White" HorizontalAlignment="Left" Margin="0,139,0,0" VerticalAlignment="Top" Width="71"/>
+                <Label Content="Person:" Foreground="White" HorizontalAlignment="Left" Margin="0,165,0,0" VerticalAlignment="Top" Width="71"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,120,0,0" TextWrapping="Wrap" x:Name="Log_Time" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,146,0,0" TextWrapping="Wrap" x:Name="Log_Per" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,171,0,0" TextWrapping="Wrap" x:Name="Log_Name" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+                <Label Content="Casualties:" Foreground="White" HorizontalAlignment="Left" Margin="0,188,0,0" VerticalAlignment="Top" Width="71"/>
+                <TextBlock HorizontalAlignment="Left" Margin="95,192,0,0" TextWrapping="Wrap" x:Name="Log_Casualty" VerticalAlignment="Top" Width="131" Foreground="Wheat"/>
+
+            </Grid>
+        </Grid>
+        <Label Content="Log"  Foreground="White" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="772,0,0,0" Height="26" VerticalAlignment="Top" Width="254"/>
+        <Grid Name="IndividualControls" Margin="279,26,269,22.4" Background="#FF656565">
+            <Label Content="Weather Analyser" Margin="41,131,44,308.6" FontSize="40" FontFamily="Lucida Console" Background="{x:Null}" Foreground="White"/>
+            <Label Content="www.sfdevrohan.com" FontSize="20" Margin="41,195,37,265.6" Foreground="White"/>
+            <Grid Name="UsrDataGrid" HorizontalAlignment="Left" Height="322" Margin="10,10,0,0" VerticalAlignment="Top" Width="468" Visibility="Visible" Background="#FF4E4E4E">
+                <Label Content="Device details" Margin="0,0,0,287" Foreground="White" Background="#FF606060"/>
+                <Label Content="Name of owner :" Foreground="White" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Width="106"/>
+                <Label Content="Location :" Foreground="White" HorizontalAlignment="Left" Margin="10,66,0,0" VerticalAlignment="Top" Width="106"/>
+                <Label Content="Phone No :" Foreground="White" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top" Width="106"/>
+                <Label Content="Serial No :" Foreground="White" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Width="106"/>
+                <TextBlock HorizontalAlignment="Left" Margin="121,45,0,0" TextWrapping="Wrap" Name="Usr" VerticalAlignment="Top" Width="328" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="121,71,0,0" TextWrapping="Wrap" Name="UsrLocation" VerticalAlignment="Top" Width="328" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="121,98,0,0" TextWrapping="Wrap" Name="UsrPhNo" VerticalAlignment="Top" Width="328" Foreground="Wheat"/>
+                <TextBlock HorizontalAlignment="Left" Margin="121,123,0,0" TextWrapping="Wrap" Name="UsrSer" VerticalAlignment="Top" Width="328" Foreground="Wheat"/>
+                <ListBox Name="DataList" ScrollViewer.PanningMode="VerticalOnly" HorizontalAlignment="Left" Height="128" Margin="10,184,0,0" VerticalAlignment="Top" Width="448" Background="#FF5D5D5F" Foreground="Wheat"/>
+                <Button Content="Data Dump" HorizontalAlignment="Left" Margin="10,160,0,0" VerticalAlignment="Top" Width="75" Background="#FF636363" BorderBrush="{x:Null}" Foreground="White" Name="Data_Dump" Click="Data_Dump_Click"/>
+            </Grid>
+            <Grid x:Name="Controls" Background="#FF4E4E4E" Margin="8,348,10,7.6">
+                <Label Content="Controls" Margin="0,0,1,112.4" Foreground="White" Background="#FF606060"/>
+                <Button Name="HPresence" Content="Request human presence" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Width="145" Background="#FF636363" BorderBrush="{x:Null}" Foreground="White" Height="26" Click="HPresence_Click"/>
+                <Label Content="Result:" Foreground="White" HorizontalAlignment="Left" Margin="183,39,0,0" VerticalAlignment="Top" Width="106" Height="26"/>
+                <TextBlock HorizontalAlignment="Left" Margin="289,45,0,0" TextWrapping="Wrap" x:Name="HumanResponse" VerticalAlignment="Top" Width="180" Foreground="Wheat"/>
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="5" Margin="82,65,0,0" VerticalAlignment="Top" Width="1"/>
+                <Button x:Name="DeleteSerialMapping" Content="Delete from DB" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Width="145" Background="#FF636363" BorderBrush="{x:Null}" Foreground="White" Height="26" Click="DeleteSerialMapping_Click"/>
+                <Button x:Name="ShutDown" Content="Shutdown" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" Width="145" Background="#FF636363" BorderBrush="{x:Null}" Foreground="White" Height="26" Click="ShutDown_Click"/>
+
+            </Grid>
+
+
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\obj\Debug\Back_Door.csprojAssemblyReference.cache
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\obj\Debug\Back_Door.csproj.CoreCompileInputs.cache
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\bin\Debug\Back_Door.exe.config
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\bin\Debug\Back_Door.exe
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\bin\Debug\Back_Door.pdb
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\obj\Debug\Back_Door.exe
+G:\Science Exhibition\Back Door Server\Back_Door\Back_Door\obj\Debug\Back_Door.pdb
